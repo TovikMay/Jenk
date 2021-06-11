@@ -1,4 +1,6 @@
 # factorial_fibonacci
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/kisakyekenneth/factorial_fibonacci?logo=Github&style=flat-square)
+
 pipeline {
     agent any
     stages {
